@@ -24,7 +24,7 @@ a{
 }
 
 nav{
-  display: inline;
+  display: inline-block;
 }
 
 .historia{
