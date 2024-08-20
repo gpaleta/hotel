@@ -39,5 +39,8 @@ nav ul li{
 }
 
 .pai{
-  display
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  align-items:center;
 }
