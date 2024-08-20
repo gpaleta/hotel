@@ -23,8 +23,6 @@ a{
   color: black;
 }
 
-
-
 nav ul li{
   text-align:center;
 }
@@ -38,4 +36,8 @@ nav ul li{
   width: 250px;
   height: 250px;
   margin: 0 auto;
+}
+
+.pai{
+  display
 }
