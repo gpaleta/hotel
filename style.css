@@ -27,6 +27,10 @@ nav{
   display: inline-block ;
 }
 
+nav ul li{
+  text-align:center;
+}
+
 .historia{
   padding: 0 25% ;
   text-align: center;
@@ -36,5 +40,4 @@ nav{
   width: 250px;
   height: 250px;
   margin: 0 auto;
-  text-align: right;
 }
