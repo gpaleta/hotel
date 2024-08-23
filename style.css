@@ -25,6 +25,7 @@ a{
 
 nav ul li{
   text-align:center;
+  list-style: none;
 }
 
 .historia{
