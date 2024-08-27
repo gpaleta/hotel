@@ -7,9 +7,11 @@ html {
   width: 100%;
 }
 
-header {
+.header {
   background-color: #000000;
   color: white;
+  display: inline-block;
+  width: 100%;
 }
 
 footer {
@@ -35,12 +37,12 @@ nav ul li{
 }
 
 .logo{
-  width: 100px;
-  height: 100px;
+  width: 140px;
+  height: 140px;
   justify-content: center;
   align-items: center;
 }
 
-.pai{
-  display: flexbox;
+.img2{
+  width: 49%;
 }
